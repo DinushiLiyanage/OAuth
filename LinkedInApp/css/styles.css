@@ -1,0 +1,27 @@
+/*IT15018960 - D.U. Liyanage*/
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: 2% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    width: 35%; 
+    box-shadow: 5px 5px #C2C2C2;
+    border-style:  solid;
+    border-color: #C2C2C2;
+    border-width: thin;
+}
+
+/* Center the image */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+.container {
+    padding: 16px;
+}
+
