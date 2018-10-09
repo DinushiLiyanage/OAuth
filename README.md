@@ -1,4 +1,4 @@
-#A web application that uses OAuth 2.0 framework to retrieve user profile data from LinkedIn
+A web application that uses OAuth 2.0 framework to retrieve user profile data from LinkedIn
 
 You can read my blogpost to have an idea about OAuth and the implementation of this example: https://ravelearn.wordpress.com/2018/09/18/using-oauth-framework-to-retrieve-linkedin-user-profile-information-through-a-web-app/
 
