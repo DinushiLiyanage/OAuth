@@ -10,4 +10,4 @@ How to run the project/s:
 
 3. Start WAMP server
 
-4. Open your web browser and navigate the URL https://localhost/LinkedInApp
+4. Open your web browser and navigate the URL http://localhost/LinkedInApp/
